@@ -1,2 +1,1 @@
-# Sort-Methods
-Metodos-de-ordenamiento
+# Sort-Methods/Metodos-de-ordenamiento
